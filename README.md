@@ -6,7 +6,7 @@
 
 ## 導入
 
-Releasesから `form-style-3.0.0-free-bundle.zip` を取得して展開し、中の `form-style-3.0.0-free-plugin.zip` を展開せずkintoneに読み込んでください。設定後はアプリを更新します。
+Releasesから `form-style-3.0.2-free-bundle.zip` を取得して展開し、中の `form-style-3.0.2-free-plugin.zip` を展開せずkintoneに読み込んでください。設定後はアプリを更新します。
 
 PC版のレコード追加・編集・詳細が対象です。無料版と＋版は同じIDなので、同じドメイン内の利用アプリ全体が切り替わります。既存プラグインは削除しないでください。
 
